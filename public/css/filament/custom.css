@@ -1,0 +1,6 @@
+.custom-image {
+    width: 100px; /* Sesuaikan dengan kebutuhan Anda */
+    height: 100px; /* Sesuaikan dengan kebutuhan Anda */
+    object-fit: cover; /* Menjaga rasio aspek gambar */
+    border-radius: 5%; /* Membuat sudut-sudut gambar melengkung */
+}
